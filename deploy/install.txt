@@ -1,0 +1,8 @@
+、安dk1.6及以上版本;
+2、设置JAVA_HOME的环境变量到PATH中去;
+3、安装tomcat;
+4、安装mysql5.5及以上版本；
+5、安装apache2.24版本;
+6、安装memcached1.43及以上版本;
+7、安装nodejs;
+8、安装etherp环境;
